@@ -13,15 +13,6 @@ body{
   color: white;
   text-decoration: 1px solid black;
 }
-/* .button {
-  background-color: #daf7a6;
-  margin-top: 20px;
-  width: 100px;
-  height: 30px;
-  border-radius: 20px;
-  cursor: pointer; */
-
-
 
 .button {
   min-width: 100px;
